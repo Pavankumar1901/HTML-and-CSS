@@ -1,0 +1,101 @@
+ul li{
+    display: inline-block;
+    background-color: #fff;
+    padding: 20px;
+
+    
+   
+}
+a{
+    text-decoration:none;
+    color:gray;
+    
+}
+a:hover{
+    color:orange;
+}
+
+
+.pageone{
+    display: inline-block;
+    
+
+}
+
+.pagetwo{
+    background-image: url("images/Vector-1.png");
+    color: #283a5e;
+    font-size: 20px;
+    line-height: 30px;
+    padding: 10px;
+    background-image: url("");
+    
+
+}
+h4{
+    color: #545e77;
+}
+h2{
+    color: #283a5e;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: -1px;
+    font-family: 'CarosBold',sans-serif
+}
+
+.pagetwo{
+   counter-reset:#283a5f; 
+   font-family: 'Caros',sans-serif;
+   width: 30%;
+   padding: 15px;
+   height: fit-content;
+   
+
+}
+.pagefour{
+    text-align: center;
+}
+.pagefive{
+    width: 100%;
+}
+.param1{
+    float: left;
+    margin-left: 4px;
+    width: 30%;
+}
+.param2{
+    float: left;
+    margin-left: 4px;
+    width: 30%;
+}
+.pagesix{
+    color: #ff6D34;
+    font: 14px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+#chat{
+    position: fixed;
+    bottom: 22px;
+    z-index: 10000;
+    float: right;
+    right: 21px;
+    
+    
+}
+
+    
+    
+    
+   
+
+
+
+
+
+
+
+
+
+
